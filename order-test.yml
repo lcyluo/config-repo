@@ -1,2 +1,4 @@
-env:
-  test-app-a
+env: test-app-a
+gril:
+  name: lcy
+  age: 18
